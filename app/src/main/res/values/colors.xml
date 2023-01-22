@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#151515</color>
+    <color name="accent">#0995f6</color>
+    <color name="accent_click">#0874BF</color>
+
+    <!-- light -->
+    <color name="light_background">#ffffff</color>
+    <color name="light_color_primary">#000000</color>
+    <color name="light_color_primary_variant">#262626</color>
+    <color name="light_color_secondary">#999999</color>
+    <color name="light_color_secondary_variant">#C6C6C6</color>
+    <color name="light_color_surface">#efefef</color>
+    <color name="light_color_surface_variant">#B6B6B6</color>
+    <color name="light_color_on_surface">#f6f9fb</color>
+    <color name="light_text_color_primary">#383838</color>
+    <color name="light_text_color_secondary">#01376b</color>
+    <color name="light_text_color_hint">#AAAAAA</color>
+</resources>
